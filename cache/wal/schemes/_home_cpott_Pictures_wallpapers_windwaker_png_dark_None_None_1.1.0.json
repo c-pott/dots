@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/windwaker.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12111e",
+        "foreground": "#e2d4c8",
+        "cursor": "#e2d4c8"
+    },
+    "colors": {
+        "color0": "#12111e",
+        "color1": "#496F72",
+        "color2": "#8C7F6C",
+        "color3": "#919888",
+        "color4": "#A39F8D",
+        "color5": "#B2A792",
+        "color6": "#C8B39B",
+        "color7": "#e2d4c8",
+        "color8": "#9e948c",
+        "color9": "#496F72",
+        "color10": "#8C7F6C",
+        "color11": "#919888",
+        "color12": "#A39F8D",
+        "color13": "#B2A792",
+        "color14": "#C8B39B",
+        "color15": "#e2d4c8"
+    }
+}

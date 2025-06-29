@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/skullkid.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#d6cc9b",
+        "cursor": "#d6cc9b"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#8B2E1E",
+        "color2": "#962A25",
+        "color3": "#B63A26",
+        "color4": "#915A2B",
+        "color5": "#BF633E",
+        "color6": "#ADA530",
+        "color7": "#d6cc9b",
+        "color8": "#958e6c",
+        "color9": "#8B2E1E",
+        "color10": "#962A25",
+        "color11": "#B63A26",
+        "color12": "#915A2B",
+        "color13": "#BF633E",
+        "color14": "#ADA530",
+        "color15": "#d6cc9b"
+    }
+}

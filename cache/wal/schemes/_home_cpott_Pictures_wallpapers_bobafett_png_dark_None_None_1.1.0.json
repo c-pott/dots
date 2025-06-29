@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/bobafett.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c0b",
+        "foreground": "#f0e3ca",
+        "cursor": "#f0e3ca"
+    },
+    "colors": {
+        "color0": "#0d0c0b",
+        "color1": "#A75F40",
+        "color2": "#6E946B",
+        "color3": "#B29769",
+        "color4": "#E79E61",
+        "color5": "#90838E",
+        "color6": "#B0BD9D",
+        "color7": "#f0e3ca",
+        "color8": "#a89e8d",
+        "color9": "#A75F40",
+        "color10": "#6E946B",
+        "color11": "#B29769",
+        "color12": "#E79E61",
+        "color13": "#90838E",
+        "color14": "#B0BD9D",
+        "color15": "#f0e3ca"
+    }
+}

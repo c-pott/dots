@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/hd_invincible.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#99c2e3",
+        "cursor": "#99c2e3"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A6A632",
+        "color2": "#C5C63E",
+        "color3": "#D1D342",
+        "color4": "#FDFF4E",
+        "color5": "#326D9D",
+        "color6": "#3D86C0",
+        "color7": "#99c2e3",
+        "color8": "#6b879e",
+        "color9": "#A6A632",
+        "color10": "#C5C63E",
+        "color11": "#D1D342",
+        "color12": "#FDFF4E",
+        "color13": "#326D9D",
+        "color14": "#3D86C0",
+        "color15": "#99c2e3"
+    }
+}

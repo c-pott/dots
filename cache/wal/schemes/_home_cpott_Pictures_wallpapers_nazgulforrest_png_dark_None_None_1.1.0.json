@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/nazgulforrest.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0604",
+        "foreground": "#e6d0bb",
+        "cursor": "#e6d0bb"
+    },
+    "colors": {
+        "color0": "#0a0604",
+        "color1": "#C47033",
+        "color2": "#90735A",
+        "color3": "#76856A",
+        "color4": "#A78B6B",
+        "color5": "#DA9F41",
+        "color6": "#DCA269",
+        "color7": "#e6d0bb",
+        "color8": "#a19182",
+        "color9": "#C47033",
+        "color10": "#90735A",
+        "color11": "#76856A",
+        "color12": "#A78B6B",
+        "color13": "#DA9F41",
+        "color14": "#DCA269",
+        "color15": "#e6d0bb"
+    }
+}

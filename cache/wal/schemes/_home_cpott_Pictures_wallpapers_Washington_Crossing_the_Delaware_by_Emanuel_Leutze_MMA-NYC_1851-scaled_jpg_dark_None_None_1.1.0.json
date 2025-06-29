@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/Washington_Crossing_the_Delaware_by_Emanuel_Leutze_MMA-NYC_1851-scaled.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0909",
+        "foreground": "#d1d3dd",
+        "cursor": "#d1d3dd"
+    },
+    "colors": {
+        "color0": "#0d0909",
+        "color1": "#6B6C74",
+        "color2": "#8C6849",
+        "color3": "#5C6A85",
+        "color4": "#6D7388",
+        "color5": "#878680",
+        "color6": "#9C9CA4",
+        "color7": "#d1d3dd",
+        "color8": "#92939a",
+        "color9": "#6B6C74",
+        "color10": "#8C6849",
+        "color11": "#5C6A85",
+        "color12": "#6D7388",
+        "color13": "#878680",
+        "color14": "#9C9CA4",
+        "color15": "#d1d3dd"
+    }
+}

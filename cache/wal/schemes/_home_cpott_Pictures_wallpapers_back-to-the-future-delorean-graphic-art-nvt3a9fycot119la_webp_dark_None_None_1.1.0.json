@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/back-to-the-future-delorean-graphic-art-nvt3a9fycot119la.webp",
+    "alpha": "100",
+    "special": {
+        "background": "#19170f",
+        "foreground": "#e7e6e8",
+        "cursor": "#e7e6e8"
+    },
+    "colors": {
+        "color0": "#19170f",
+        "color1": "#B7B7B9",
+        "color2": "#B8B8BA",
+        "color3": "#BEBEC0",
+        "color4": "#C1C0C1",
+        "color5": "#CFCFD1",
+        "color6": "#DFDEE1",
+        "color7": "#e7e6e8",
+        "color8": "#a1a1a2",
+        "color9": "#B7B7B9",
+        "color10": "#B8B8BA",
+        "color11": "#BEBEC0",
+        "color12": "#C1C0C1",
+        "color13": "#CFCFD1",
+        "color14": "#DFDEE1",
+        "color15": "#e7e6e8"
+    }
+}

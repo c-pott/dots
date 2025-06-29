@@ -1,0 +1,5 @@
+/* This is used to pull in the colors that the pywal default file for waybar pulls in. Everytime pywal generates a new color palette, the file cache file is updated, and imported into this file. This file is then imported into the waybar.conf file.
+ */
+
+
+@import url("/home/cpott/.cache/wal/colors-waybar.css");

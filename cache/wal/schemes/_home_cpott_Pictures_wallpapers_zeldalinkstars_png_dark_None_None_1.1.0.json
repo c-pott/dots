@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/zeldalinkstars.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1016",
+        "foreground": "#94aed7",
+        "cursor": "#94aed7"
+    },
+    "colors": {
+        "color0": "#0C1016",
+        "color1": "#254364",
+        "color2": "#314773",
+        "color3": "#514547",
+        "color4": "#36518B",
+        "color5": "#3266A8",
+        "color6": "#475B9C",
+        "color7": "#94aed7",
+        "color8": "#677996",
+        "color9": "#254364",
+        "color10": "#314773",
+        "color11": "#514547",
+        "color12": "#36518B",
+        "color13": "#3266A8",
+        "color14": "#475B9C",
+        "color15": "#94aed7"
+    }
+}

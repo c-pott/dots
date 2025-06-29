@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/animecar.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1B27",
+        "foreground": "#c7cdc8",
+        "cursor": "#c7cdc8"
+    },
+    "colors": {
+        "color0": "#0D1B27",
+        "color1": "#DB884F",
+        "color2": "#EF995B",
+        "color3": "#3C758E",
+        "color4": "#318FB6",
+        "color5": "#5A9BB1",
+        "color6": "#3799C3",
+        "color7": "#c7cdc8",
+        "color8": "#8b8f8c",
+        "color9": "#DB884F",
+        "color10": "#EF995B",
+        "color11": "#3C758E",
+        "color12": "#318FB6",
+        "color13": "#5A9BB1",
+        "color14": "#3799C3",
+        "color15": "#c7cdc8"
+    }
+}

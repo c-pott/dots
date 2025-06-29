@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/jengofett.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a060a",
+        "foreground": "#d6d3da",
+        "cursor": "#d6d3da"
+    },
+    "colors": {
+        "color0": "#0a060a",
+        "color1": "#3B5AC9",
+        "color2": "#4A6BCD",
+        "color3": "#4D72E7",
+        "color4": "#89768C",
+        "color5": "#6591E6",
+        "color6": "#A2A3A8",
+        "color7": "#d6d3da",
+        "color8": "#959398",
+        "color9": "#3B5AC9",
+        "color10": "#4A6BCD",
+        "color11": "#4D72E7",
+        "color12": "#89768C",
+        "color13": "#6591E6",
+        "color14": "#A2A3A8",
+        "color15": "#d6d3da"
+    }
+}

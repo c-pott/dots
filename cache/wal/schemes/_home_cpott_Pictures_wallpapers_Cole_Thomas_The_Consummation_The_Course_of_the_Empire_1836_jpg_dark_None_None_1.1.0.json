@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#160c05",
+        "foreground": "#d8d5d8",
+        "cursor": "#d8d5d8"
+    },
+    "colors": {
+        "color0": "#160c05",
+        "color1": "#C89E67",
+        "color2": "#A99F96",
+        "color3": "#B4AEB3",
+        "color4": "#CCB390",
+        "color5": "#C6BBB8",
+        "color6": "#D5C7B7",
+        "color7": "#d8d5d8",
+        "color8": "#979597",
+        "color9": "#C89E67",
+        "color10": "#A99F96",
+        "color11": "#B4AEB3",
+        "color12": "#CCB390",
+        "color13": "#C6BBB8",
+        "color14": "#D5C7B7",
+        "color15": "#d8d5d8"
+    }
+}

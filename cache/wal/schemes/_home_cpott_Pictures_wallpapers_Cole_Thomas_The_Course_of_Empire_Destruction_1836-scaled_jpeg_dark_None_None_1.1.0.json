@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/Cole_Thomas_The_Course_of_Empire_Destruction_1836-scaled.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#151006",
+        "foreground": "#dcc7ab",
+        "cursor": "#dcc7ab"
+    },
+    "colors": {
+        "color0": "#151006",
+        "color1": "#71694E",
+        "color2": "#8C6234",
+        "color3": "#8E7753",
+        "color4": "#7E816A",
+        "color5": "#92886B",
+        "color6": "#A58F66",
+        "color7": "#dcc7ab",
+        "color8": "#9a8b77",
+        "color9": "#71694E",
+        "color10": "#8C6234",
+        "color11": "#8E7753",
+        "color12": "#7E816A",
+        "color13": "#92886B",
+        "color14": "#A58F66",
+        "color15": "#dcc7ab"
+    }
+}

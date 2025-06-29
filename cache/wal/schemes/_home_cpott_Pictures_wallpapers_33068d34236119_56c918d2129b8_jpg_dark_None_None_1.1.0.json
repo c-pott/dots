@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/33068d34236119.56c918d2129b8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#dcdcdc",
+        "cursor": "#dcdcdc"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#6E8273",
+        "color2": "#6E9E9A",
+        "color3": "#8F8F8F",
+        "color4": "#8DB0AD",
+        "color5": "#AFAFAF",
+        "color6": "#A2BFBD",
+        "color7": "#dcdcdc",
+        "color8": "#9a9a9a",
+        "color9": "#6E8273",
+        "color10": "#6E9E9A",
+        "color11": "#8F8F8F",
+        "color12": "#8DB0AD",
+        "color13": "#AFAFAF",
+        "color14": "#A2BFBD",
+        "color15": "#dcdcdc"
+    }
+}

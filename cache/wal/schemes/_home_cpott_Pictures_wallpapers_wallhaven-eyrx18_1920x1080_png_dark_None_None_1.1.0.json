@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-eyrx18_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e181e",
+        "foreground": "#dbc9db",
+        "cursor": "#dbc9db"
+    },
+    "colors": {
+        "color0": "#1e181e",
+        "color1": "#67A7D8",
+        "color2": "#A8A4BE",
+        "color3": "#E6A8AB",
+        "color4": "#C49EC1",
+        "color5": "#C7A3C7",
+        "color6": "#C8A4C8",
+        "color7": "#dbc9db",
+        "color8": "#998c99",
+        "color9": "#67A7D8",
+        "color10": "#A8A4BE",
+        "color11": "#E6A8AB",
+        "color12": "#C49EC1",
+        "color13": "#C7A3C7",
+        "color14": "#C8A4C8",
+        "color15": "#dbc9db"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/deloreananime.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1810",
+        "foreground": "#c6cec4",
+        "cursor": "#c6cec4"
+    },
+    "colors": {
+        "color0": "#1c1810",
+        "color1": "#956735",
+        "color2": "#9A7845",
+        "color3": "#7B8473",
+        "color4": "#A68957",
+        "color5": "#C38753",
+        "color6": "#75A9A7",
+        "color7": "#c6cec4",
+        "color8": "#8a9089",
+        "color9": "#956735",
+        "color10": "#9A7845",
+        "color11": "#7B8473",
+        "color12": "#A68957",
+        "color13": "#C38753",
+        "color14": "#75A9A7",
+        "color15": "#c6cec4"
+    }
+}

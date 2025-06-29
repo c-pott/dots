@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/civicanime.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121413",
+        "foreground": "#d1d2ce",
+        "cursor": "#d1d2ce"
+    },
+    "colors": {
+        "color0": "#121413",
+        "color1": "#907053",
+        "color2": "#5D8774",
+        "color3": "#A58D71",
+        "color4": "#48758A",
+        "color5": "#5290B2",
+        "color6": "#52A7D2",
+        "color7": "#d1d2ce",
+        "color8": "#929390",
+        "color9": "#907053",
+        "color10": "#5D8774",
+        "color11": "#A58D71",
+        "color12": "#48758A",
+        "color13": "#5290B2",
+        "color14": "#52A7D2",
+        "color15": "#d1d2ce"
+    }
+}

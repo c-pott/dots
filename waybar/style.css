@@ -1,0 +1,145 @@
+@import url("/home/cpott/.config/waybar/colors.css");
+
+/* Fonts */
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 13px;
+}
+
+/* Bar */
+window#waybar {
+  background-color: transparent;
+  border-radius: 13px;
+  transition-property: background;
+  transition-duration: 0.5s;
+}
+
+/* Examples
+button {
+  Use box-shadow instead of border so the text isn't offset
+  box-shadow: inset 0 -3px transparent;
+  Avoid rounded borders under each button name
+  border: none;
+  border-radius: 0;
+}
+
+https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect
+button:hover {
+  background: inherit;
+  box-shadow: inset 0 -3px #ffffff;
+} */
+
+#window {
+  padding: 0 7px;
+  color: @foreground;
+}
+
+#pulseaudio {
+  padding: 0 7px;
+  color: @foreground;
+}
+#pulseaudio.muted {
+  padding: 0 7px;
+  color: @red;
+}
+#pulseaudio:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#network {
+  padding: 0 7px;
+  color: @foreground;
+}
+#network:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#custom-nowplaying {
+  padding: 0 7px;
+  color: @text;
+}
+
+#custom-nowplaying:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#custom-notifications {
+  padding: 0 7px;
+  color: @text;
+}
+
+#custom-notifications:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#bluetooth {
+  padding: 0 7px;
+  color: @text;
+}
+#bluetooth:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#clock {
+  padding: 0 7px;
+  color: @foreground;
+}
+
+#clock:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#custom-vpn {
+	padding: 0 7px;
+	color: @foreground;
+}
+
+label:focus {
+  background-color: #000000;
+  color: @color5;
+}
+
+#workspaces button {
+  padding: 0 5px;
+  background-color: transparent;
+  color: @foreground;
+}
+#workspaces button:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+#workspaces button.focused {
+  background-color: @color13;
+  box-shadow: inset 0 -3px #ffffff;
+}
+#workspaces button.urgent {
+  background-color: #eb4d4b;
+}
+
+#mode {
+  background-color: #64727d;
+  box-shadow: inset 0 -3px #ffffff;
+}
+
+/* Modules rules */
+.modules-right,
+.modules-left,
+.modules-center {
+  border-radius: 15px;
+}
+.modules-right {
+  padding: 0 7px;
+  background-color: @background;
+  border: 2px solid @color1;
+}
+
+.modules-left {
+  padding: 0 7px;
+  background-color: @background;
+  border: 2px solid @color1;
+}
+
+.modules-center {
+  background: rgba(30, 30, 46, 1); 
+  background-color: @background;
+  border: 2px solid @color1;
+}

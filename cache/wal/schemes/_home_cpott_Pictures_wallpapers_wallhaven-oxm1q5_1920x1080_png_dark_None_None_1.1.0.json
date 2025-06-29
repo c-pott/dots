@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-oxm1q5_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#efefef",
+        "cursor": "#efefef"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#195390",
+        "color2": "#8E8E8E",
+        "color3": "#B2B2B2",
+        "color4": "#D8DEAB",
+        "color5": "#D0D0D0",
+        "color6": "#E1E3D7",
+        "color7": "#efefef",
+        "color8": "#a7a7a7",
+        "color9": "#195390",
+        "color10": "#8E8E8E",
+        "color11": "#B2B2B2",
+        "color12": "#D8DEAB",
+        "color13": "#D0D0D0",
+        "color14": "#E1E3D7",
+        "color15": "#efefef"
+    }
+}

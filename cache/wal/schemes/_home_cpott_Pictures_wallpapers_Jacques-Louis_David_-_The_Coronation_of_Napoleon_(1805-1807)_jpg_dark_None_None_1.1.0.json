@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c07",
+        "foreground": "#b4cab8",
+        "cursor": "#b4cab8"
+    },
+    "colors": {
+        "color0": "#0a0c07",
+        "color1": "#6C6D4A",
+        "color2": "#915931",
+        "color3": "#906A28",
+        "color4": "#708E5E",
+        "color5": "#BE9D4A",
+        "color6": "#A0945D",
+        "color7": "#b4cab8",
+        "color8": "#7d8d80",
+        "color9": "#6C6D4A",
+        "color10": "#915931",
+        "color11": "#906A28",
+        "color12": "#708E5E",
+        "color13": "#BE9D4A",
+        "color14": "#A0945D",
+        "color15": "#b4cab8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/upscaled_5osy0inoazg71.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#c4c3c2",
+        "cursor": "#c4c3c2"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#853D0C",
+        "color2": "#A43926",
+        "color3": "#91420F",
+        "color4": "#BD624F",
+        "color5": "#81817E",
+        "color6": "#6E8BAE",
+        "color7": "#c4c3c2",
+        "color8": "#898887",
+        "color9": "#853D0C",
+        "color10": "#A43926",
+        "color11": "#91420F",
+        "color12": "#BD624F",
+        "color13": "#81817E",
+        "color14": "#6E8BAE",
+        "color15": "#c4c3c2"
+    }
+}

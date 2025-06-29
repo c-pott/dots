@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/battleofmordor.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0d0d",
+        "foreground": "#c7c6c0",
+        "cursor": "#c7c6c0"
+    },
+    "colors": {
+        "color0": "#0e0d0d",
+        "color1": "#3C4443",
+        "color2": "#4C5450",
+        "color3": "#676D66",
+        "color4": "#AB542E",
+        "color5": "#7D827B",
+        "color6": "#A9906B",
+        "color7": "#c7c6c0",
+        "color8": "#8b8a86",
+        "color9": "#3C4443",
+        "color10": "#4C5450",
+        "color11": "#676D66",
+        "color12": "#AB542E",
+        "color13": "#7D827B",
+        "color14": "#A9906B",
+        "color15": "#c7c6c0"
+    }
+}

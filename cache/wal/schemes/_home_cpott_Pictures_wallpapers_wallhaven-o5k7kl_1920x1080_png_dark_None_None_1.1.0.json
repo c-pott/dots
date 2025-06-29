@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-o5k7kl_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101837",
+        "foreground": "#badbc0",
+        "cursor": "#badbc0"
+    },
+    "colors": {
+        "color0": "#101837",
+        "color1": "#2F946B",
+        "color2": "#55A373",
+        "color3": "#8DA87C",
+        "color4": "#216487",
+        "color5": "#46A394",
+        "color6": "#8AB88F",
+        "color7": "#badbc0",
+        "color8": "#829986",
+        "color9": "#2F946B",
+        "color10": "#55A373",
+        "color11": "#8DA87C",
+        "color12": "#216487",
+        "color13": "#46A394",
+        "color14": "#8AB88F",
+        "color15": "#badbc0"
+    }
+}

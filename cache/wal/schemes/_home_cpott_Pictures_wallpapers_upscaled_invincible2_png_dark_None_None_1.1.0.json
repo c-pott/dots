@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/upscaled_invincible2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#9dcdf6",
+        "cursor": "#9dcdf6"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#3477AC",
+        "color2": "#3982BD",
+        "color3": "#3D8AC8",
+        "color4": "#4295D8",
+        "color5": "#459EE3",
+        "color6": "#4DADFF",
+        "color7": "#9dcdf6",
+        "color8": "#6d8fac",
+        "color9": "#3477AC",
+        "color10": "#3982BD",
+        "color11": "#3D8AC8",
+        "color12": "#4295D8",
+        "color13": "#459EE3",
+        "color14": "#4DADFF",
+        "color15": "#9dcdf6"
+    }
+}

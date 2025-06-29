@@ -1,0 +1,1 @@
+/home/cpott/.config/fastfetch/ascii/arch.txt

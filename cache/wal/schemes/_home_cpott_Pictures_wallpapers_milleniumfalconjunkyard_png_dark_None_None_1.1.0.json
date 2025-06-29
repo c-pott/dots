@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/milleniumfalconjunkyard.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111018",
+        "foreground": "#c6cace",
+        "cursor": "#c6cace"
+    },
+    "colors": {
+        "color0": "#111018",
+        "color1": "#295493",
+        "color2": "#2A5A97",
+        "color3": "#4C71A6",
+        "color4": "#986F8B",
+        "color5": "#698EB5",
+        "color6": "#2A8FD1",
+        "color7": "#c6cace",
+        "color8": "#8a8d90",
+        "color9": "#295493",
+        "color10": "#2A5A97",
+        "color11": "#4C71A6",
+        "color12": "#986F8B",
+        "color13": "#698EB5",
+        "color14": "#2A8FD1",
+        "color15": "#c6cace"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/animestarwars.png",
+    "alpha": "100",
+    "special": {
+        "background": "#16181a",
+        "foreground": "#c8dbe4",
+        "cursor": "#c8dbe4"
+    },
+    "colors": {
+        "color0": "#16181a",
+        "color1": "#0073AE",
+        "color2": "#59778B",
+        "color3": "#0C87B8",
+        "color4": "#509DBD",
+        "color5": "#6CABC8",
+        "color6": "#8EB6CB",
+        "color7": "#c8dbe4",
+        "color8": "#8c999f",
+        "color9": "#0073AE",
+        "color10": "#59778B",
+        "color11": "#0C87B8",
+        "color12": "#509DBD",
+        "color13": "#6CABC8",
+        "color14": "#8EB6CB",
+        "color15": "#c8dbe4"
+    }
+}

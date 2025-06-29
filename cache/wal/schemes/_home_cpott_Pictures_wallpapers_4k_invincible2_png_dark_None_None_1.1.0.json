@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/4k_invincible2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#9dcdf6",
+        "cursor": "#9dcdf6"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#3477AD",
+        "color2": "#3982BD",
+        "color3": "#3D89C7",
+        "color4": "#4295D8",
+        "color5": "#469DE4",
+        "color6": "#4BA9F4",
+        "color7": "#9dcdf6",
+        "color8": "#6d8fac",
+        "color9": "#3477AD",
+        "color10": "#3982BD",
+        "color11": "#3D89C7",
+        "color12": "#4295D8",
+        "color13": "#469DE4",
+        "color14": "#4BA9F4",
+        "color15": "#9dcdf6"
+    }
+}

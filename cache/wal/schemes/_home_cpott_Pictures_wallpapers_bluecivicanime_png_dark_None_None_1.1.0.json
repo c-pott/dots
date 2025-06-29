@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/bluecivicanime.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c07",
+        "foreground": "#c7cdd1",
+        "cursor": "#c7cdd1"
+    },
+    "colors": {
+        "color0": "#0a0c07",
+        "color1": "#78654B",
+        "color2": "#874D29",
+        "color3": "#8B7253",
+        "color4": "#A28969",
+        "color5": "#346788",
+        "color6": "#709DBD",
+        "color7": "#c7cdd1",
+        "color8": "#8b8f92",
+        "color9": "#78654B",
+        "color10": "#874D29",
+        "color11": "#8B7253",
+        "color12": "#A28969",
+        "color13": "#346788",
+        "color14": "#709DBD",
+        "color15": "#c7cdd1"
+    }
+}

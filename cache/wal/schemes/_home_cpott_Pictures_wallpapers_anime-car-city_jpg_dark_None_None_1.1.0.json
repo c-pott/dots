@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/anime-car-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1e2d",
+        "foreground": "#e3eae4",
+        "cursor": "#e3eae4"
+    },
+    "colors": {
+        "color0": "#0f1e2d",
+        "color1": "#5EA7E5",
+        "color2": "#948084",
+        "color3": "#99A5A7",
+        "color4": "#CEC9AB",
+        "color5": "#91BAD9",
+        "color6": "#ABCCD9",
+        "color7": "#e3eae4",
+        "color8": "#9ea39f",
+        "color9": "#5EA7E5",
+        "color10": "#948084",
+        "color11": "#99A5A7",
+        "color12": "#CEC9AB",
+        "color13": "#91BAD9",
+        "color14": "#ABCCD9",
+        "color15": "#e3eae4"
+    }
+}

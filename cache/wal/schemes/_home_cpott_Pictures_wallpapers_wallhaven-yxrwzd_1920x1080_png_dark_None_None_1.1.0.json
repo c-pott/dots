@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-yxrwzd_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040505",
+        "foreground": "#dadee3",
+        "cursor": "#dadee3"
+    },
+    "colors": {
+        "color0": "#040505",
+        "color1": "#7C899A",
+        "color2": "#0E9FD2",
+        "color3": "#8795A7",
+        "color4": "#9BA2AB",
+        "color5": "#BBB3C6",
+        "color6": "#BDC7D1",
+        "color7": "#dadee3",
+        "color8": "#989b9e",
+        "color9": "#7C899A",
+        "color10": "#0E9FD2",
+        "color11": "#8795A7",
+        "color12": "#9BA2AB",
+        "color13": "#BBB3C6",
+        "color14": "#BDC7D1",
+        "color15": "#dadee3"
+    }
+}

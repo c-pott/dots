@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-q6pygl_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121111",
+        "foreground": "#eed8a5",
+        "cursor": "#eed8a5"
+    },
+    "colors": {
+        "color0": "#121111",
+        "color1": "#A92418",
+        "color2": "#DF2C15",
+        "color3": "#B0562B",
+        "color4": "#E75D18",
+        "color5": "#FAA20B",
+        "color6": "#F9DD0A",
+        "color7": "#eed8a5",
+        "color8": "#a69773",
+        "color9": "#A92418",
+        "color10": "#DF2C15",
+        "color11": "#B0562B",
+        "color12": "#E75D18",
+        "color13": "#FAA20B",
+        "color14": "#F9DD0A",
+        "color15": "#eed8a5"
+    }
+}

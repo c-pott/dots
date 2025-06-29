@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/Vincenzo_Camuccini_-_La_morte_di_Cesare-1-1024x581.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0a",
+        "foreground": "#a0a9ba",
+        "cursor": "#a0a9ba"
+    },
+    "colors": {
+        "color0": "#0c0c0a",
+        "color1": "#68584F",
+        "color2": "#70645B",
+        "color3": "#776F68",
+        "color4": "#984625",
+        "color5": "#8F725E",
+        "color6": "#AB8C70",
+        "color7": "#a0a9ba",
+        "color8": "#707682",
+        "color9": "#68584F",
+        "color10": "#70645B",
+        "color11": "#776F68",
+        "color12": "#984625",
+        "color13": "#8F725E",
+        "color14": "#AB8C70",
+        "color15": "#a0a9ba"
+    }
+}

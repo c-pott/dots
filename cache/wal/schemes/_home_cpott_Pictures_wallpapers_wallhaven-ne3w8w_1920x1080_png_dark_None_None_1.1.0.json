@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/wallhaven-ne3w8w_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e9dad1",
+        "cursor": "#e9dad1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#94837C",
+        "color2": "#B47D82",
+        "color3": "#8E8D8F",
+        "color4": "#AF9594",
+        "color5": "#B5B4B6",
+        "color6": "#CEA19E",
+        "color7": "#e9dad1",
+        "color8": "#a39892",
+        "color9": "#94837C",
+        "color10": "#B47D82",
+        "color11": "#8E8D8F",
+        "color12": "#AF9594",
+        "color13": "#B5B4B6",
+        "color14": "#CEA19E",
+        "color15": "#e9dad1"
+    }
+}

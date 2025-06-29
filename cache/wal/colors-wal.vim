@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/cpott/Pictures/wallpapers/wp13849744-fujiwara-tofu-shop-wallpapers.jpg"
+let background = "#0d0a09"
+let foreground = "#d7c5a3"
+let cursor     = "#d7c5a3"
+
+" Colors
+let color0  = "#0d0a09"
+let color1  = "#4B3018"
+let color2  = "#4C3726"
+let color3  = "#674D2E"
+let color4  = "#4C4E49"
+let color5  = "#93683A"
+let color6  = "#77846C"
+let color7  = "#d7c5a3"
+let color8  = "#968972"
+let color9  = "#4B3018"
+let color10 = "#4C3726"
+let color11 = "#674D2E"
+let color12 = "#4C4E49"
+let color13 = "#93683A"
+let color14 = "#77846C"
+let color15 = "#d7c5a3"

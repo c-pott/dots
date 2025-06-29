@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/efcivic.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131616",
+        "foreground": "#e4dad4",
+        "cursor": "#e4dad4"
+    },
+    "colors": {
+        "color0": "#131616",
+        "color1": "#65538B",
+        "color2": "#92618B",
+        "color3": "#C47B82",
+        "color4": "#818592",
+        "color5": "#A29EA4",
+        "color6": "#C9B9B3",
+        "color7": "#e4dad4",
+        "color8": "#9f9894",
+        "color9": "#65538B",
+        "color10": "#92618B",
+        "color11": "#C47B82",
+        "color12": "#818592",
+        "color13": "#A29EA4",
+        "color14": "#C9B9B3",
+        "color15": "#e4dad4"
+    }
+}

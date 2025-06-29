@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/animemeadow.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f4523",
+        "foreground": "#82bade",
+        "cursor": "#82bade"
+    },
+    "colors": {
+        "color0": "#1f4523",
+        "color1": "#518952",
+        "color2": "#6B9451",
+        "color3": "#5D8F65",
+        "color4": "#92A73E",
+        "color5": "#78A696",
+        "color6": "#4A90A5",
+        "color7": "#82bade",
+        "color8": "#5b829b",
+        "color9": "#518952",
+        "color10": "#6B9451",
+        "color11": "#5D8F65",
+        "color12": "#92A73E",
+        "color13": "#78A696",
+        "color14": "#4A90A5",
+        "color15": "#82bade"
+    }
+}

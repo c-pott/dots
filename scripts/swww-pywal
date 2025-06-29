@@ -1,0 +1,15 @@
+#███████╗██╗    ██╗██╗    ██╗██╗    ██╗       ██╗       ██████╗ ██╗   ██╗██╗    ██╗ █████╗ ██╗     
+#██╔════╝██║    ██║██║    ██║██║    ██║       ██║       ██╔══██╗╚██╗ ██╔╝██║    ██║██╔══██╗██║     
+#███████╗██║ █╗ ██║██║ █╗ ██║██║ █╗ ██║    ████████╗    ██████╔╝ ╚████╔╝ ██║ █╗ ██║███████║██║     
+#╚════██║██║███╗██║██║███╗██║██║███╗██║    ██╔═██╔═╝    ██╔═══╝   ╚██╔╝  ██║███╗██║██╔══██║██║     
+#███████║╚███╔███╔╝╚███╔███╔╝╚███╔███╔╝    ██████║      ██║        ██║   ╚███╔███╔╝██║  ██║███████╗
+#╚══════╝ ╚══╝╚══╝  ╚══╝╚══╝  ╚══╝╚══╝     ╚═════╝      ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+
+#!/bin/sh
+# Connects swww to pywal. Everytime the wallpaper changes, swww regenerates new color scheme
+
+swww-daemon
+directory=~/Pictures/wallpapers
+wallpaper=$(find "$directory" -type f | shuf -n 1)
+    swww img "$wallpaper" --resize crop --transition-type wipe --transition-angle 30 --transition-fps 60 --transition-duration 1.5  #setting wallpaper
+    wal -i $wallpaper -n  #pywal colors

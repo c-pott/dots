@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/cpott/Pictures/wallpapers/atatdeathstar.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010202",
+        "foreground": "#e2e9f0",
+        "cursor": "#e2e9f0"
+    },
+    "colors": {
+        "color0": "#010202",
+        "color1": "#84A1B9",
+        "color2": "#88B4DD",
+        "color3": "#95BCE1",
+        "color4": "#9DC2E3",
+        "color5": "#B0CEE9",
+        "color6": "#C6DCEF",
+        "color7": "#e2e9f0",
+        "color8": "#9ea3a8",
+        "color9": "#84A1B9",
+        "color10": "#88B4DD",
+        "color11": "#95BCE1",
+        "color12": "#9DC2E3",
+        "color13": "#B0CEE9",
+        "color14": "#C6DCEF",
+        "color15": "#e2e9f0"
+    }
+}
