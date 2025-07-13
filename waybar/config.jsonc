@@ -58,7 +58,7 @@
     "separate-outputs": true,
     "rewrite": {
       "": "Hyprland" },
-    "on-click": "~/.config/scripts/swww-pywal"
+    "on-click": "~/.config/scripts/rofi-power"
   },
 
   "hyprland/workspaces": {
