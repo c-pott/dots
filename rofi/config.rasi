@@ -35,4 +35,23 @@ configuration{
     kb-move-char-forward: "Control+f";
     kb-mode-complete: "Control+o";
 }
+configuration {
+    show-icons: true;
 
+}
+
+#window {
+    border: 2px;
+    padding: 10px;
+    border-radius: 10;
+    anchor: center;
+    width: 450;
+    x-offset: 0px;
+    y-offset: 0px;
+    border-color: @urgent-background;
+}
+
+#mainbox {
+    background-color: @background;
+
+}
