@@ -43,7 +43,7 @@
   },
 
   "custom/nowplaying": {
-    "format": "󰎇 {}",
+    "format": "  {}",
     "interval": 1,
     "exec": "~/.config/scripts/nowplaying",
     "on-click": "playerctl play-pause",
